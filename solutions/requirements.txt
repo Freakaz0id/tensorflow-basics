@@ -1,0 +1,26 @@
+# TensorFlow Libraries
+tensorflow==2.6.*
+tensorflow-datasets
+tensorflow-addons
+
+# Other Libraries
+scikit-learn
+scipy
+scikit-image
+numpy==1.19.*
+matplotlib
+pandas
+opencv-python
+pyqt5
+xlrd
+openpyxl
+optuna
+
+# Linting/Tooling
+pylint
+flake8
+mypy
+isort
+black==21.4b0
+pre-commit
+autopep8
